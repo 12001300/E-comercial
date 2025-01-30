@@ -1,0 +1,24 @@
+.create-proudct-page{
+    
+}
+.create-proudct-page form{
+
+}
+.create-proudct-page input,
+.create-proudct-page select{
+width:100%;
+height: 40px;
+padding: 10px;
+border: 1px solid #999;
+border-radius: 8px;
+font-size:15px ;
+display: block;
+margin: 10px 0;
+}
+.create-proudct-page input[type="submit"]{
+    background-color:#333 ;
+
+    color:#fff;
+    border:0;
+    cursor: pointer;
+}
